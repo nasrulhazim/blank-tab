@@ -1,6 +1,6 @@
 # Blank Tab
 
-Simply a lightweight extension to display blank tab.
+Simply a lightweight Chrome extension to display blank tab.
 
 # Manifest
 
